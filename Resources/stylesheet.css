@@ -6,7 +6,7 @@ h1 {
     font: 100px;
     font-weight: bold;
     color: khaki;
-    background-image: url('Resources/pattern.webp');
+    background-image: url('pattern.webp');
 }
 
 h2 {
